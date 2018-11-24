@@ -20,7 +20,25 @@ Choose a local business		{#choose-a-locoalbusiness}
 ====================================
 
 Replay Boardshop
-![logo](/ssss)
+![logo](/styles/images/bisiness-evaluate/replay-logo.jpg)
 
-evaluate            {#evaluate}
+Evaluate this business            {#evaluate}
 ====================================
+
+Replay Board shop is the best boardshop in Abbotsford which with the vision of providing premium skateboarding and snowboarding equipment, clothing and shoes.
+Replay Boardshop is the only skateshop in Abbotsford so it is the best choice for local skaters to buy their equipment.
+It was opend in 1997, already 21 years history so it is a famous local skateshop.
+So it has:
+* Best location for a skateshop
+* Only skateshop in Abbotsford
+* Has established relatively long time 
+* Not only fulfill the requirment about skateboarding, also snowboarding, figerboarding,, scooter and cloths
+
+Why successful       {#why-successful}
+===========================================
+
+* Summer goods discount in autumn, winter goods discount in spring and summer
+* Always has discounting good for students
+* Employees are people who love the thing related to the job
+* Has its own brand now
+* Try to sell new things

@@ -12,6 +12,8 @@ Choose a local business		{#choose-a-locoalbusiness}
 ====================================
 
 Replay Boardshop
+
+
 ![logo](/styles/images/business-evaluate/replay-logo.jpg)
 
 Evaluate this business            {#evaluate}

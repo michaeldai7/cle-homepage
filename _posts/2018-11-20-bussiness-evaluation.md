@@ -8,14 +8,6 @@ tag: Business
 * content
 {:toc}
 
-Index {#Index}
-====================================
-
-* Index
-* Choose a local business
-* Evaluate their business 
-* Why successful
-
 Choose a local business		{#choose-a-locoalbusiness}
 ====================================
 

@@ -2,7 +2,7 @@
 layout: post
 title:  Business Evaluation
 date:   2018-11-20 12.05.00
-categories: Work
+categories: Assignment
 tag: Business
 ---
 * content

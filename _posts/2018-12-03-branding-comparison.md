@@ -44,6 +44,11 @@ They are sincere no only because they are on of the oldest skateboard brand, the
 
 Comparison      {#comparison}
 ============================
-|          | Leticia Bufoni                                             | Bones Wheels                                           |
-:-----:|:------:|:------:
-Snapshot | ![Leticia](/styles/images/branding-comparison/Leticia.jpg) | ![Bones](/styles/images/branding-comparison/Bones.jpg) 
+### Snapshots
+ ![Leticia](/styles/images/branding-comparison/Leticia.jpg) 
+ ![Bones](/styles/images/branding-comparison/Bones.jpg) 
+
+| Difference | Leticia                          | Bones                      |
+| ---------- | -------------------------------- | -------------------------- |
+| Audience   | More likely to follow daily life | For product and skate film |
+| Ads        | Advertise for other brands       | Advertise themself         |

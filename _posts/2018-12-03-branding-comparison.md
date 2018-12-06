@@ -51,9 +51,11 @@ Comparison      {#comparison}
     ![Bones](/styles/images/branding-comparison/Bones.jpg) 
 
 ### Tables
-| Difference | Leticia Bufoni                   | Bones                      |
-| ---------- | -------------------------------- | -------------------------- |
-| Audience   | More likely to follow daily life | For product and skate film |
-| Ads        | Advertise for other brands       | Advertise themself         |
+
+|Difference|Leticia Bufoni| Bones|
+|------| --------------------------------|--------------------------|
+|Audience|More likely to follow daily life|For product and skate film|
+|Ads|Advertise for other brands|Advertise themself|
+
 ### Summary
-These are two types of different account used for different intentions.One is like a personal account just for recording daily life. Another is to try to sell product.
+These are two types of different account used for different intentions. One is like a personal account just for recording daily life. Another is to try to sell product.

@@ -45,9 +45,9 @@ They are sincere no only because they are on of the oldest skateboard brand, the
 Comparison      {#comparison}
 ============================
 ### Snapshots
-   #### Leticia Bufoni
+   Leticia Bufoni
      ![Leticia](/styles/images/branding-comparison/Leticia.jpg) 
-   #### Bone Wheels  
+   Bone Wheels  
     ![Bones](/styles/images/branding-comparison/Bones.jpg) 
 
 ### Tables

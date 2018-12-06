@@ -55,6 +55,5 @@ Comparison      {#comparison}
 | ---------- | -------------------------------- | -------------------------- |
 | Audience   | More likely to follow daily life | For product and skate film |
 | Ads        | Advertise for other brands       | Advertise themself         |
-
 ### Summary
 These are two types of different account used for different intentions.One is like a personal account just for recording daily life. Another is to try to sell product.

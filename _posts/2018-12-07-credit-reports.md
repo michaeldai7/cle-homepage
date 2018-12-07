@@ -56,7 +56,7 @@ What are some important ways I can reduce my risk of having my identity stolen? 
 * If your Social Insurance Card is lost or stolen, contact your employer or your local Human Resources Development (HRDC) office immediately
 * If your Driver's License is lost or stolen, contact your local driver and vehicle license issuing office and report it to your local police station
 
-What is FICO score?     {FICO}
+What is FICO score?     {#FICO}
 ===
 Credit score.
 

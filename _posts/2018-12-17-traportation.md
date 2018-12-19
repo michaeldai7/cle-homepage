@@ -13,16 +13,16 @@ Cost of Bus Pass in Abbotsford      {#bus-pass}
 
 Student
 |Type|Fare|Notes|
-|--|--|--|
-|MONTHLY PASS|$35.00|
-|MONTHLY PASS (FVX)|$85.00|Valid I.D. required for students in full-time attendance to Grade 12.[Buy online](https://shop.fvrd.bc.ca/collections/fvx-monthly-transit-pass/products/fvx-transit-monthly-pass-senior-student-85)|
-|PASS PACK|$110.00|Set of 4-month passes (Jan-April, May-Aug, Sept-Dec)|
+-|-|-
+MONTHLY PASS|$35.00
+MONTHLY PASS (FVX)|$85.00|Valid I.D. required for students in full-time attendance to Grade 12.[Buy online](https://shop.fvrd.bc.ca/collections/fvx-monthly-transit-pass/products/fvx-transit-monthly-pass-senior-student-85)
+PASS PACK|$110.00|Set of 4-month passes (Jan-April, May-Aug, Sept-Dec)
 
 Adult
 |Type|Fare|Notes|
-|--|--|--|
-|MONTHLY PASS|$52.00|
-|MONTHLY PASS (FVX)|$100.00|[Buy online](https://shop.fvrd.bc.ca/collections/fvx-monthly-transit-pass/products/transit-monthly-pass-adult-44-00)|
+-|-|-
+MONTHLY PASS|$52.00
+MONTHLY PASS (FVX)|$100.00|[Buy online](https://shop.fvrd.bc.ca/collections/fvx-monthly-transit-pass/products/transit-monthly-pass-adult-44-00)
 
 Cost of A Bicycle       {#bicycle}
 ================================
@@ -46,48 +46,8 @@ Buy A New Car       {#car}
 I don't need to loan because I can buy it right now. I have enough money.
 
 ## Maintenance
+
 |Type|Fare|
 -|-
 Gas|150/month
 Oil Change|$60/year
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Transportation Worksheet		{#worksheet}
-====================================

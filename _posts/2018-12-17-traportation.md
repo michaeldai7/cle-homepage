@@ -12,6 +12,7 @@ Cost of Bus Pass in Abbotsford      {#bus-pass}
 ===============================================
 
 Student
+
 |Type|Fare|Notes|
 -|-|-
 MONTHLY PASS|$35.00
@@ -19,6 +20,7 @@ MONTHLY PASS (FVX)|$85.00|Valid I.D. required for students in full-time attendan
 PASS PACK|$110.00|Set of 4-month passes (Jan-April, May-Aug, Sept-Dec)
 
 Adult
+
 |Type|Fare|Notes|
 -|-|-
 MONTHLY PASS|$52.00

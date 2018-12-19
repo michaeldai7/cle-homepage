@@ -16,7 +16,7 @@ Student
 |Type|Fare|Notes|
 -|-|-
 MONTHLY PASS|$35.00
-MONTHLY PASS (FVX)|$85.00|Valid I.D. required for students in full-time attendance to Grade 12.[Buy online](https://shop.fvrd.bc.ca/collections/fvx-monthly-transit-pass/products/fvx-transit-monthly-pass-senior-student-85)
+MONTHLY PASS (FVX)|$85.00|Valid I.D. required for students in full-time attendance to Grade 12.[Buy online](https://shop.fvrd.bc.ca/collections/fvx-monthly-transit-pass/products/fvx-transit-monthly-pass-senior-student-85){:target="_blank"}
 PASS PACK|$110.00|Set of 4-month passes (Jan-April, May-Aug, Sept-Dec)
 
 Adult

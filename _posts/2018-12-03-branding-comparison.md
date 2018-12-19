@@ -37,7 +37,7 @@ Their audience are people who skate.
 Because they might buy their product and spread information for them.
 
 #### Alignment
-They understand their audience because they go to sponsor their audience's favourite skateboarders and their audience will buy their products.
+They understand their audience because they go to sponsor their audience's favorite skateboarders and their audience will buy their products.
 
 #### Authenticity
 They are sincere no only because they are on of the oldest skateboard brand, they also up-to-date. They know what people want, what is the trend.
@@ -55,7 +55,7 @@ Comparison      {#comparison}
 |Difference|Leticia Bufoni| Bones|
 |------| --------------------------------|--------------------------|
 |**Audience**|More likely to follow daily life|For product and skate film|
-|**Ads**|Advertise for other brands|Advertise themself|
+|**Ads**|Advertise for other brands|Advertise themselves|
 
 ### Summary
 These are two types of different account used for different intentions. One is like a personal account just for recording daily life. Another is to try to sell product.
